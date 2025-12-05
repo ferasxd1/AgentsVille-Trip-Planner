@@ -49,3 +49,6 @@ Thumbs.db
 # Temporary files
 *.tmp
 *.bak
+
+# Batch scripts
+PUSH_TO_GITHUB.bat
